@@ -1,0 +1,27 @@
+=== HPV Self-Sampling Meta-Analysis Summary ===
+
+Random-Effects Model (k = 5; tau^2 estimator: REML)
+
+  logLik  deviance       AIC       BIC      AICc   
+  0.9638   -1.9277    2.0723    0.8449   14.0723   
+
+tau^2 (estimated amount of total heterogeneity): 0 (SE = 0.0421)
+tau (square root of estimated tau^2 value):      0
+I^2 (total heterogeneity / total variability):   0.00%
+H^2 (total variability / sampling variability):  1.00
+
+Test for Heterogeneity:
+Q(df = 4) = 1.6610, p-val = 0.7978
+
+Model Results:
+
+estimate      se     tval  df    pval   ci.lb   ci.ub      
+  2.3775  0.0706  33.6544   4  <.0001  2.1814  2.5737  *** 
+
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+
+
+=== Back-transformed Pooled Estimate (Proportion) ===
+Pooled Proportion: 0.915 (95% CI: 0.899 - 0.929)

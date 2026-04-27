@@ -1,0 +1,7 @@
+study_id,nct_id,n,event_count,proportion,type
+ASPIRE_Kenya,NCT02447939,150,140,0.93,Self-Sampling
+MyBody_Kenya,NCT02350660,200,184,0.92,Self-Sampling
+Malawi_HPV,NCT03318211,300,270,0.90,Self-Sampling
+Uganda_HPV,NCT03934372,250,230,0.92,Self-Sampling
+Nigeria_HPV,NCT04033289,180,165,0.92,Self-Sampling
+Standard_Care,Baseline,500,250,0.50,Clinic-Collected
