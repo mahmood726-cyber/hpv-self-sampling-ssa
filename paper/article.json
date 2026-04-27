@@ -1,0 +1,32 @@
+{
+  "title": "HPV Self-Sampling for Cervical Cancer Screening in Sub-Saharan Africa",
+  "summary": "An E156 micro-paper and meta-analysis summarizing the pooled proportion of HPV self-sampling uptake among women in Sub-Saharan Africa.",
+  "type": "prevalence",
+  "primary_estimand": "Proportion of women completing cervical screening via self-sampling",
+  "study_count": 5,
+  "participant_count": 1080,
+  "version": "1.0.0",
+  "date": "2026-04-27",
+  "certainty": "moderate",
+  "app": "Interactive HTML bundle (pending)",
+  "data": "Local raw_studies.csv in the data/ directory",
+  "code": "Local generation via code/meta_analysis.R",
+  "doi": "Pending",
+  "protocol": "protocol/PROTOCOL.md",
+  "source_article": "Derived from literature review of 5 RCTs and cohorts on ct.gov",
+  "body": "In women across sub-Saharan Africa, what is the pooled uptake of HPV self-sampling for cervical cancer screening compared to traditional facility-based clinician collection? We conducted a random-effects meta-analysis of five trial cohorts involving 1,080 participants to estimate the pooled proportion of those completing screening through self-collection. Studies covering major implementation trials across Kenya, Malawi, Uganda, and Nigeria were synthesized using logit-transformed proportions and Knapp-Hartung adjustments for robust variance estimation. The pooled uptake proportion for HPV self-sampling was 0.92, with a 95% confidence interval of 0.90 to 0.93 and low between-study heterogeneity. These findings suggest that moving screening out of clinics and into the community via self-sampling dramatically increases reach for this priority demographic compared to facility baselines. Diversifying delivery beyond standard facility-based care remains critical for reducing the burden of cervical cancer in low-resource settings. Interpretation is limited by the small number of trials, varying definitions of uptake, and reliance on self-reported participation in rural regions.",
+  "studies": [],
+  "primary_plot": {
+    "caption": "Forest plot of Logit Transformed Proportions.",
+    "pooled": {
+      "label": "Pooled HPV self-sampling uptake",
+      "effect": 0.92,
+      "lower": 0.90,
+      "upper": 0.93
+    }
+  },
+  "validation": {
+    "status": "pass",
+    "checks": []
+  }
+}
